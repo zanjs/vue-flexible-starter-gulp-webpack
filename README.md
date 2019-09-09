@@ -1,5 +1,7 @@
 # vue-flexible-starter
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/vue-flexible-starter-gulp-webpack.svg)](https://greenkeeper.io/)
+
 > A Vue.js project
 
 ## Build Setup
